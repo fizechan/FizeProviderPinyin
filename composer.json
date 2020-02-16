@@ -19,9 +19,9 @@
     "phpunit/phpunit": "^8.0.0"
   },
   "provide": {
-    "ext-sqlite3": "*"
   },
   "suggest": {
+    "ext-sqlite3": "*"
   },
   "autoload": {
     "psr-4": {
