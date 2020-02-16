@@ -1,2 +1,2 @@
 # FizeProviderPinyin
-拼音生成、解析器
+中文转拼音
